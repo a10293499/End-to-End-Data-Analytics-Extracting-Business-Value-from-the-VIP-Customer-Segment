@@ -18,4 +18,4 @@
     * 使用Power BI繪製[動態圖表]()
 
  * Result 結果
-   *
+   *[test](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
