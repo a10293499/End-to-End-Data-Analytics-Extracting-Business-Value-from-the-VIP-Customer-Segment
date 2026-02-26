@@ -37,7 +37,7 @@
 >
    ![9.Regional Distribution of VIP Customers](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/9.Regional%20Distribution%20of%20VIP%20Customers.png)
 >
-   ![10.State-level Distribution of VIP Customers]()
+   ![10.State-level Distribution of VIP Customers](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/10.State-level%20Distribution%20of%20VIP%20Customers.png)
 >
    ![11.Revenue Composition by Category of VIP Customers](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/11.Revenue%20Composition%20by%20Category%20of%20VIP%20Customers.png)
 >
