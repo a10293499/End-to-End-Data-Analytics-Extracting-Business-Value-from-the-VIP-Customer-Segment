@@ -21,25 +21,25 @@
 >
    ![1.Monthly Sales Trend Analysis (2014-2017)](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
 >
-   ![2.2014-2017 Sales table)](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
+   ![2.2014-2017 Sales table)](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/2.2014-2017%20Sales%20table.png)
 >
-   ![3.Category Total Sales](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
+   ![3.Category Total Sales](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/3.Category%20Total%20Sales.png)
 >
-   ![4.Sub-Category Total Sales)](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
+   ![4.Sub-Category Total Sales)](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/4.Sub-Category%20Total%20Sales.png)
 >
-   ![5.Profit of Product Category)](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
+   ![5.Profit of Product Category)](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/5.Profit%20of%20Product%20Category.png)
 >
-   ![6.Quantity of Sub-Category](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
+   ![6.Quantity of Sub-Category](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/6.Quantity%20of%20Sub-Category.png)
 >
-   ![7.Profitability Analysis by Product Sub-Category](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
+   ![7.Profitability Analysis by Product Sub-Category](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/7.Profitability%20Analysis%20by%20Product%20Sub-Category.png)
 >
-   ![8.VIP Contribution to Total Sales](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
+   ![8.VIP Contribution to Total Sales](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/8.VIP%20Contribution%20to%20Total%20Sales.png)
 >
-   ![9.Regional Distribution of VIP Customers](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
+   ![9.Regional Distribution of VIP Customers](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/9.Regional%20Distribution%20of%20VIP%20Customers.png)
 >
-   ![10.State-level Distribution of VIP Customers](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
+   ![10.State-level Distribution of VIP Customers]()
 >
-   ![11.Revenue Composition by Category of VIP Customers](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
+   ![11.Revenue Composition by Category of VIP Customers](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/11.Revenue%20Composition%20by%20Category%20of%20VIP%20Customers.png)
 >
-   ![12.Product Sub-Category Preference (VIP Customers)](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.Monthly%20Sales%20Trend%20Analysis%20(2014-2017).png)
+   ![12.Product Sub-Category Preference (VIP Customers)](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/12.Product%20Sub-Category%20Preference%20(VIP%20Customers).png)
    
