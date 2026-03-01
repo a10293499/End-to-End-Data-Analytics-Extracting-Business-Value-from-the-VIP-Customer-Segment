@@ -1,0 +1,27 @@
+ALTER TABLE superstore 
+ADD COLUMN order_date_clean DATE;
+
+UPDATE superstore
+SET order_date_clean = printf('%04d-%02d-%02d',
+    -- 1. 抓年份：取最後 4 碼
+    SUBSTR([Order Date], -4),
+    
+    -- 2. 抓月份：切出第一個斜線前的數字
+    SUBSTR([Order Date], 1, INSTR([Order Date], '/') - 1),
+    
+    -- 3. 抓日期：切出第一與第二個斜線中間的數字
+    SUBSTR(
+        SUBSTR([Order Date], INSTR([Order Date], '/') + 1), 
+        1, 
+        INSTR(SUBSTR([Order Date], INSTR([Order Date], '/') + 1), '/') - 1
+    )
+);
+
+SELECT 
+    STRFTIME('%Y', order_date_clean) AS sales_year,
+    STRFTIME('%m', order_date_clean) AS sales_month,
+    SUM(Sales) AS total_sales
+FROM superstore
+WHERE order_date_clean BETWEEN '2014-01-01' AND '2017-12-31'
+GROUP BY sales_year, sales_month
+ORDER BY sales_year, sales_month;
