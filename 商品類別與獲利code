@@ -1,0 +1,7 @@
+SELECT Category,[Sub-Category], 
+        ROUND(SUM(Quantity),1) AS subcategory_quantity,
+        ROUND(SUM(Sales),1) AS subcategory_sum_sales,
+        ROUND(SUM(Profit),1) AS subcategory_sum_profit
+    FROM superstore
+    GROUP BY [Sub-Category]
+    ORDER BY subcategory_sum_profit DESC;
