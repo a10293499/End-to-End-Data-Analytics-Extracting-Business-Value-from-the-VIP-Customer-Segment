@@ -22,7 +22,7 @@
 
    ![1](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/1.%E5%B9%B4%E5%BA%A6%E9%8A%B7%E5%94%AE%E5%A2%9E%E9%95%B7%EF%BC%9A%E6%A5%AD%E7%B8%BE%E8%B6%A8%E5%8B%A2%E8%88%87%E5%AD%A3%E7%AF%80%E6%80%A7%E6%B3%A2%E5%8B%95%E5%88%86%E6%9E%90.png)
 >圖1.2014-2017 銷售趨勢分析：Q4 季節性效應帶動業績高峰
->Figure1.Sales Trends 2014-2017: Seasonal Peaks in Q4
+>>Figure1.Sales Trends 2014-2017: Seasonal Peaks in Q4
 >
 >
 >2015到2017的銷額逐漸增加，尤其2015到2016年有大幅度增加22.8%。
