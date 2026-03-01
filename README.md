@@ -27,7 +27,7 @@
 此外，2016年反而是在Q4的12月有更好的表現，主要由於家具類與其他產品類的拉抬，家具中的桌子與辦公用品類的活頁夾在此時表現優異。
 
 >Figure1.Sales Trends 2014-2017: Seasonal Peaks in Q4  
->Sales demonstrated a steady upward trend from 2015 to 2017, highlighted by a significant 22.8% year-over-year (YoY) increase in 2016. From a seasonal perspective, Q4 serves as the primary revenue engine, with November being the most critical month. In November 2017, the Technology category established a substantial lead over other segments, driven primarily by the performance of Phones and Copiers. Additionally, December 2016 saw a strong performance boost from Furniture and other categories, with Tables and Binders showing exceptional results during that period.
+>Sales demonstrated a steady upward trend from 2015 to 2017, highlighted by a significant 22.8% year-over-year (YoY) increase in 2016. From a seasonal perspective, Q4 serves as the primary revenue engine, with November being the most critical month. In November 2017, the Technology category established a substantial lead over other segments, driven primarily by the performance of Phones and Copiers. Additionally, December 2016 saw a strong performance boost from Furniture and Office Supplies, with Tables and Binders showing exceptional results during that period.
 
 -----------------
 
@@ -40,7 +40,7 @@
 左下角則是銷額與利潤都不好，若要更替銷售的產品可優先考量此區，尤其像是辦公耗材、緊固件 (如迴紋針、釘書針)...等，銷售的數量也相對少，表示較難吸引客人訪店。
 
 >Figure2.Profitability Matrix: High-Margin Insights & Loss Optimization  
->Profitability rankings are led by Technology, followed by Office Supplies, while Furniture significantly underperforms, accounting for only 6.44% of total profit. Quadrant analysis identifies our "Stars" (high sales and high profit) as Phones, Copiers, Accessories, Chairs, Binders, and Storage. Paper and Appliances are categorized as high-leverage products; despite lower sales volume, their high margins suggest they should be prioritized for promotion to maximize returns. Conversely, Tables and Machines fall into the "Warning Zone" (high sales, low profit), necessitating a review of cost structures or pricing strategies. Finally, categories like Supplies and Fasteners show poor results in both sales and profit; as they struggle to drive customer traffic, they should be prioritized for potential inventory turnover or replacement.
+> Technology, followed by Office Supplies lead profitability rankings, while Furniture significantly underperforms, accounting for only 6.44% of total profit. Quadrant analysis identifies our "Stars" (high sales and high profit) as Phones, Copiers, Accessories, Chairs, Binders, and Storage. Paper and Appliances are categorized as high-leverage products; despite lower sales volume, their high margins suggest they should be prioritized for promotion to maximize returns. Conversely, Tables and Machines fall into the "Warning Zone" (high sales, low profit), necessitating a review of cost structures or pricing strategies. Finally, categories like Supplies and Fasteners show poor results in both sales and profit; as they struggle to drive customer traffic, they should be prioritized for potential inventory turnover or replacement.
 
 
 
@@ -54,7 +54,7 @@
 
 
 >Figure3.VIP Identification: Revenue Contribution & Geographic Distribution  
->To optimize the overall profit structure, we conducted a deep-dive analysis of the VIP segment, defined as the top 20% of customers by expenditure. These VIPs contribute USD 1,106,064.33, representing 48% of total revenue (USD 2,297,200.86). Geographically, VIP customers are concentrated on the West Coast (31.45%), with California being the largest market, followed by the East Coast (28.3%), including New York, Pennsylvania, and Washington. It is recommended that marketing budgets be prioritized in these regions to sustain and grow core revenue.
+>To optimize the overall profit structure, we conducted a deep-dive analysis of the VIP segment, defined as the top 20% of customers by expenditure. These VIPs contribute USD 1,106,064.33, representing 48% of total revenue (USD 2,297,200.86). Geographically, VIP customers are concentrated on the West Coast (31.45%), with California being the largest market, followed by the East Coast (28.3%), including New York, Pennsylvania, and Washington. We recommend prioritizing marketing budgets in these regions to sustain and grow core revenue.
 
 
 -----------------
