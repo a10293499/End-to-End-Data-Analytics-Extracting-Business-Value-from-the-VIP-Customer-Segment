@@ -1,0 +1,8 @@
+SELECT [Customer ID],[Customer Name],total_sales,Country,City,State,Region
+    FROM(
+        SELECT *,SUM(Sales)AS total_sales,
+        PERCENT_RANK() OVER (ORDER BY SUM(Sales) DESC) AS p_rank
+        FROM superstore
+            GROUP BY [Customer ID]
+            ORDER BY total_sales DESC)
+    WHERE p_rank <=0.2
