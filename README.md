@@ -10,10 +10,10 @@
  * Methods方法
     * 使用ODBC連接SQLite和Power BI
     * 使用SQLite抓取資料
-    > - [趨勢 SQLite code]()
-    > - [商品類別與獲利]()
-    > - [VIP客戶：前20%銷額]()
-    > - [VIP客戶購買之商品類別]()
+    > - [趨勢 SQLite code](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/VIP%E5%AE%A2%E6%88%B6%E8%B3%BC%E8%B2%B7%E4%B9%8B%E5%95%86%E5%93%81%E9%A1%9E%E5%88%A5)
+    > - [商品類別與獲利](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/%E5%95%86%E5%93%81%E9%A1%9E%E5%88%A5%E8%88%87%E7%8D%B2%E5%88%A9code)
+    > - [VIP客戶：前20%銷額之顧客](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/VIP%E5%AE%A2%E6%88%B6%EF%BC%9A%E5%89%8D20%25%E9%8A%B7%E9%A1%8D%E4%B9%8B%E9%A1%A7%E5%AE%A2)
+    > - [VIP客戶購買之商品類別](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/VIP%E5%AE%A2%E6%88%B6%E8%B3%BC%E8%B2%B7%E4%B9%8B%E5%95%86%E5%93%81%E9%A1%9E%E5%88%A5)
     > 
     * 使用Power BI繪製[動態圖表]()
 
