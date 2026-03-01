@@ -35,9 +35,9 @@
    ![2](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/2.%E7%8D%B2%E5%88%A9%E5%93%81%E8%B3%AA%E7%9F%A9%E9%99%A3%EF%BC%9A%E7%94%A2%E5%93%81%E6%90%8D%E7%9B%8A%E8%A9%95%E4%BC%B0%E8%88%87%E7%B5%90%E6%A7%8B%E5%84%AA%E5%8C%96.png)
 >圖2.獲利品質矩陣：產品損益評估與結構優化  
 >利潤高低的類別依序為科技類、辦公用品類與家具類。與銷額相比，家具類的利潤明顯較差，只占整體利潤的6.44%，且明顯低於另外兩者。
-透過獲利象限分析發現，右上角是銷額跟利潤都高的產品，如科技類：電話、影印機、Accessories，家具類：椅子，辦公用品類：資料夾、Storage。左上角的Paper和Appliances，這類高槓桿產品，這雖然銷額看似低，但利潤高，可嘗試多推廣顧客購買此類產品。
-右下角則是處於「高銷售、低獲利」的警示區，如桌子和Machines，可重新檢視其成本結構或調整定價策略。
-左下角則是銷額與利潤都不好，若要更替銷售的產品可優先考量此區，尤其像是Supplies、Fasteners...等，銷售的數量也相對少，表示較難吸引客人訪店。
+透過獲利象限分析發現，右上角是銷額跟利潤都高的產品，如科技類：電話、影印機、配件 (如滑鼠、鍵盤等)，家具類：椅子，辦公用品類：資料夾、收納用品。左上角的紙張和辦公家電 ，這類高槓桿產品，這雖然銷額看似低，但利潤高，可嘗試多推廣顧客購買此類產品。
+右下角則是處於「高銷售、低獲利」的警示區，如桌子和事務機 / 機器設備，可重新檢視其成本結構或調整定價策略。
+左下角則是銷額與利潤都不好，若要更替銷售的產品可優先考量此區，尤其像是辦公耗材、緊固件 (如迴紋針、釘書針)...等，銷售的數量也相對少，表示較難吸引客人訪店。
 
 >Figure2.Profitability Matrix: High-Margin Insights & Loss Optimization  
 >Profitability rankings are led by Technology, followed by Office Supplies, while Furniture significantly underperforms, accounting for only 6.44% of total profit. Quadrant analysis identifies our "Stars" (high sales and high profit) as Phones, Copiers, Accessories, Chairs, Binders, and Storage. Paper and Appliances are categorized as high-leverage products; despite lower sales volume, their high margins suggest they should be prioritized for promotion to maximize returns. Conversely, Tables and Machines fall into the "Warning Zone" (high sales, low profit), necessitating a review of cost structures or pricing strategies. Finally, categories like Supplies and Fasteners show poor results in both sales and profit; as they struggle to drive customer traffic, they should be prioritized for potential inventory turnover or replacement.
@@ -62,8 +62,8 @@
    ![4](https://github.com/a10293499/End-to-End-Data-Analytics-Extracting-Business-Value-from-the-VIP-Customer-Segment/blob/main/4.%E7%B5%90%E6%A7%8B%E6%B4%9E%E5%AF%9F%EF%BC%9A%E9%AB%98%E7%A7%91%E6%8A%80%E7%94%A2%E5%93%81%E7%82%BA%20VIP%20%E6%8E%A1%E8%B3%BC%E9%87%8D%E5%BF%83.png)
 >圖4.VIP 消費行為深度分析：科技類產品採購偏好  
 >VIP顧客消費的主要類別第一同樣為科技類，其次則為辦公用品類，最後才是家具類，利潤的順序與銷額順序相同。
-分析散佈圖，右上角是銷額跟利潤都高的產品，如科技類：電話、影印機，家具類：椅子，辦公用品類：資料夾、Storage。左上角
-右下角為警示區，如Machines和Table，雖然前者的銷額高但利潤低，且整體賣的數量少(P2左下)，建議可優化其成本結構，或將資源轉向高毛利產品（如 Copiers、Binders），然而有時大項產品是為了引流。像是桌子雖然利潤低，但賣的數量較多。
+分析散佈圖，右上角是銷額跟利潤都高的產品，如科技類：電話、影印機，家具類：椅子，辦公用品類：資料夾、收納用品。左上角
+右下角為警示區，如事務機 / 機器設備和桌子，雖然前者的銷額高但利潤低，且整體賣的數量少(P2左下)，建議可優化其成本結構，或將資源轉向高毛利產品（如 影印機、資料夾），然而有時大項產品是為了引流。像是桌子雖然利潤低，但賣的數量較多。
 
 >Figure4.Sales Trends 2014-2017: Seasonal Peaks in Q4  
 >The consumption hierarchy for VIP customers remains consistent with overall trends: Technology ranks first, followed by Office Supplies and Furniture, with profit rankings mirroring sales order. Scatter chart analysis confirms that Phones, Copiers, Chairs, Binders, and Storage are the high-performing anchors for this segment. Machines and Tables remain in the "Warning Zone"; specifically, Machines generate high revenue but low profit and low sales volume, suggesting a need for cost optimization or a strategic shift toward high-margin products like Copiers and Binders. However, Tables may function as loss leaders; despite low profit margins, their high sales volume indicates they are effective at driving overall customer engagement.
